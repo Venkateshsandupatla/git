@@ -3,4 +3,4 @@ echo "hi something isa changed"
 echo "hi how "
 date
 cal
-echo "bye and "
+echo "bye an sh d "
