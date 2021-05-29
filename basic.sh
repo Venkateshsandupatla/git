@@ -1,6 +1,6 @@
 echo "jenkins testings"
 echo "hi something isa changed"
-echo "hi"
+echo "hi how "
 date
 cal
 echo "bye"
